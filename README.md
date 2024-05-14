@@ -1,5 +1,6 @@
 Google Gemini Clone
-Description
+
+Description:-
 This project is a clone of Google Gemini, a conversational AI chat application. It allows users to interact with a virtual assistant to ask questions, get suggestions, and receive responses on various topics.
 
 Features:-
